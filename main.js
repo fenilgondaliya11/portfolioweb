@@ -43,6 +43,10 @@ let projects = [
     image: 'textures/Fenil4.png',
     url: 'https://gepvtltd2.vercel.app/',
   },
+  {
+    image: 'textures/Fenil5.png',
+    url: 'https://53m.f41.myftpupload.com/',
+  },
 ];
 let aboutCameraPos = {
   x: 0.12,
