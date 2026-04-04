@@ -25,6 +25,7 @@ let clipNames = [
   'fan_rotation.002',
   'fan_rotation.003',
   'fan_rotation.004',
+  'fan_rotation.005',
 ];
 let projects = [
   {
@@ -44,10 +45,9 @@ let projects = [
     url: 'https://gepvtltd2.vercel.app/',
   },
   {
-    image: 'textures/Fenil5.png',
+    image: 'textures/Fenil5.jpg',
     url: 'https://53m.f41.myftpupload.com/',
   },
-  
 ];
 let aboutCameraPos = {
   x: 0.12,
